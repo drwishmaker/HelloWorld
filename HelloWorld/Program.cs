@@ -11,7 +11,9 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("hello Andrew");
+            Console.WriteLine("jojo steel ball run") ;
             Console.ReadKey();
+            
         }
     }
 }
